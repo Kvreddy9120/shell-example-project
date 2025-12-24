@@ -12,3 +12,7 @@ b=x-y
 # Division
 
 c=x/y
+
+#Percantege
+
+e=x%y
