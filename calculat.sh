@@ -16,3 +16,8 @@ c=x/y
 #Percantege
 
 e=x%y
+
+#Multiplication
+
+d=x*y
+
