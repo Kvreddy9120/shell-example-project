@@ -5,3 +5,6 @@
 
 a=x+y
 
+# Sbstraction
+
+b=x-y
